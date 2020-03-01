@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Model\OrderDTO.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Application.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Config\dynamoDBConfig.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Config\Swagger2Config.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\services\OrderService.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Util\Credentials.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\repository\AwsServiceRepository.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Model\Order.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\Config\WebSecurityConfig.java
+C:\Users\david\Desktop\orderService\src\main\java\com\Capstone\endpoints\OrderController.java

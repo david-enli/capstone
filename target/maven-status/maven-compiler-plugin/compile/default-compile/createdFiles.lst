@@ -1,0 +1,10 @@
+com\Capstone\Config\dynamoDBConfig.class
+com\Capstone\Util\Credentials.class
+com\Capstone\Config\WebSecurityConfig.class
+com\Capstone\Model\OrderDTO.class
+com\Capstone\Model\Order.class
+com\Capstone\services\OrderService.class
+com\Capstone\Config\Swagger2Config.class
+com\Capstone\endpoints\OrderController.class
+com\Capstone\repository\AwsServiceRepository.class
+com\Capstone\Application.class
